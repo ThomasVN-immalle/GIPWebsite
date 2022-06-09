@@ -969,6 +969,10 @@ a:hover {
   margin-top: 30px;
 }
 
+.portfolio-details div.engels-container div.script-embedded{
+  height: 800px;
+}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
